@@ -1086,12 +1086,14 @@ footer .container {
     color: #8388A7;
     max-width: 1200px;
     margin: 0 auto;
+    padding-bottom: 30px;
 }
 .copy div {
     display: flex;
     align-items: center;
     gap: 20px;
     justify-content: space-between;
+    padding-bottom: 20px;
 }
 .hr {
     color: #4E5683;
